@@ -44,8 +44,26 @@
 ## 🧰 Tech Toolbox
 <a id="tech-toolbox"></a>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,wordpress,mysql,js,html,css,bootstrap,git,github,composer,linux,apache,vscode,docker&perline=8" alt="Tech stack icons" />
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=php,wordpress,mysql,js,html,css,bootstrap,git,github,linux,vscode,docker&perline=8"
+    alt="Tech stack icons"
+  />
+</p>
+
+<p align="center">
+  <a href="https://getcomposer.org/">
+    <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer" />
+  </a>
+  <a href="https://httpd.apache.org/">
+    <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+  </a>
+  <a href="https://www.phpmyadmin.net/">
+    <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
+  </a>
+  <a href="https://cpanel.net/">
+    <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" />
+  </a>
 </p>
 
 <details>
