@@ -1,1 +1,27 @@
-.
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Harsh Gupta — PHP • WordPress • Performance & Security">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="260" fill="url(#g)"/>
+  <!-- Decorative waves -->
+  <path d="M0,210 C200,190 300,240 500,220 C700,200 900,250 1200,230 L1200,260 L0,260 Z" fill="rgba(255,255,255,0.08)"/>
+  <path d="M0,200 C250,210 350,180 600,200 C850,220 1000,195 1200,210 L1200,260 L0,260 Z" fill="rgba(255,255,255,0.05)"/>
+  <!-- Main text -->
+  <g filter="url(#shadow)">
+    <text x="50%" y="120" text-anchor="middle" font-size="52" font-weight="700" fill="#ffffff" font-family="system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, 'Helvetica Neue', Arial">
+      Harsh Gupta
+    </text>
+    <text x="50%" y="165" text-anchor="middle" font-size="20" font-weight="500" fill="#e6f6fd" font-family="system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, 'Helvetica Neue', Arial">
+      PHP • WordPress • Performance &amp; Security
+    </text>
+    <text x="50%" y="195" text-anchor="middle" font-size="16" fill="#d1ecf8" font-family="system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, 'Helvetica Neue', Arial">
+      Clean • Secure • Scalable • Pragmatic over clever
+    </text>
+  </g>
+</svg>
