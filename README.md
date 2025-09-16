@@ -66,12 +66,6 @@
   </a>
 </p>
 
-<details>
-  <summary><b>More I work with</b></summary>
-  <br>
-  <code>phpMyAdmin</code> <code>cPanel</code> <code>REST API</code> <code>JSON</code> <code>CLI</code> <code>Cron</code> <code>SEO basics</code> <code>Web Security</code>
-</details>
-
 ## 📊 Skill Bars
 <a id="skill-bars"></a>
 
