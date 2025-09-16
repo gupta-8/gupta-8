@@ -171,13 +171,6 @@ respond_json(['hello' => 'world']);
 - ✉️ Email: <a href="mailto:hello@harshgupta.me">hello@harshgupta.me</a>  
 - ☕ Support: <a href="https://buymeacoffee.com/harshguptame">buymeacoffee.com/harshguptame</a>  
 
-<p>
-  <em>Quick scan to email me:</em><br/>
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=mailto:hello@harshgupta.me" alt="Email QR" />
-</p>
-
-<p align="right"><a href="#top">↑ Back to top</a></p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:8EC5FC,100:E0C3FC" alt="footer" />
 </p>
