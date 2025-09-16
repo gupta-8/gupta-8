@@ -169,7 +169,6 @@ respond_json(['hello' => 'world']);
 <a id="contact"></a>
 
 - ✉️ Email: <a href="mailto:hello@harshgupta.me">hello@harshgupta.me</a>  
-- ☕ Support: <a href="https://buymeacoffee.com/harshguptame">buymeacoffee.com/harshguptame</a>  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:8EC5FC,100:E0C3FC" alt="footer" />
