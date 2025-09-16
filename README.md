@@ -41,6 +41,13 @@
 - 🧠 Pragmatic: simple > complex, clarity > cleverness.  
 - ☕ I turn coffee into commits and 🐛 into features (eventually 😅).
 
+<h2 align="center">💖 A Big Thank You!</h2>
+
+<p align="center">
+  Thanks to everyone who sponsors my work — special shout-out to
+  <a href="https://github.com/vasugupt07676-creator">@vasugupt07676-creator</a> ✨
+</p>
+
 ## 🧰 Tech Toolbox
 <a id="tech-toolbox"></a>
 
