@@ -1,85 +1,52 @@
-<a id="top"></a>
+<h1 align="center">Harsh Gupta</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Harsh%20Gupta&fontSize=48&fontAlign=50&fontAlignY=36&color=0:8EC5FC,100:E0C3FC&animation=twinkling" alt="Harsh Gupta header" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&center=true&vCenter=true&width=900&lines=PHP+Developer+%E2%80%A2+WordPress+Builder;Backend+%26+SQL+Craftsman;Based+in+Raipur%2C+Chhattisgarh;Open+to+Freelance+%26+Collaborations" alt="Typing intro" />
-</p>
-
-<p align="center">
-  <a href="mailto:hello@harshgupta.me">
-    <img src="https://img.shields.io/badge/Email-hello@harshgupta.me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Harsh" />
+  <a href="mailto:hello@harshgupta.me" title="Email Harsh">
+    <img alt="Email" src="https://img.shields.io/badge/Email-hello@harshgupta.me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://buymeacoffee.com/harshguptame">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=111" alt="Buy Me a Coffee" />
+  &nbsp;
+  <a href="https://buymeacoffee.com/harshguptame" title="Buy Me a Coffee">
+    <img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=111" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=gupta-8&style=for-the-badge&label=Profile%20Views" alt="Profile views" />
+  &nbsp;
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=gupta-8&style=for-the-badge&label=Profile%20Views" />
 </p>
 
 <p align="center">
-  <a href="#about-me">About</a> •
-  <a href="#tech-toolbox">Tools</a> •
-  <a href="#skill-bars">Skills</a> •
-  <a href="#what-i-do">Services</a> •
+  <a href="#about">About</a> •
+  <a href="#toolbox">Tools</a> •
+  <a href="#skills">Skills</a> •
+  <a href="#services">Services</a> •
   <a href="#now">Now</a> •
-  <a href="#github-at-a-glance">Stats</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#stats">Stats</a> •
   <a href="#extras">Extras</a> •
   <a href="#contact">Contact</a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" />
-</p>
+<h2 id="about">👋 About Me</h2>
+<ul>
+  <li>🧑‍💻 I build clean, secure, and scalable websites with <b>PHP</b> and <b>WordPress</b>.</li>
+  <li>🗄️ Comfortable with <b>SQL/MySQL</b>, REST APIs, caching, and performance tuning.</li>
+  <li>🧠 Pragmatic: simple &gt; complex, clarity &gt; cleverness.</li>
+  <li>☕ I turn coffee into commits and 🐛 into features (eventually 😅).</li>
+</ul>
 
-## 👋 About Me
-<a id="about-me"></a>
-
-- 🧑‍💻 I build clean, secure, and scalable websites with **PHP** and **WordPress**.  
-- 🗄️ Comfortable with **SQL/MySQL**, REST APIs, caching, and performance tuning.  
-- 🧠 Pragmatic: simple > complex, clarity > cleverness.  
-- ☕ I turn coffee into commits and 🐛 into features (eventually 😅).
-
-<h2 align="center">💖 A Big Thank You!</h2>
-
-<p align="center">
+<p align="center"><b>💖 A Big Thank You!</b><br/>
   Thanks to everyone who sponsors my work — special shout-out to
   <a href="https://github.com/vasugupt07676-creator">@vasugupt07676-creator</a> ✨
 </p>
 
-## 🧰 Tech Toolbox
-<a id="tech-toolbox"></a>
-
+<h2 id="toolbox">🧰 Tech Toolbox</h2>
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=php,wordpress,mysql,js,html,css,bootstrap,git,github,linux,vscode,docker&perline=8"
-    alt="Tech stack icons"
-  />
+  <img src="https://skillicons.dev/icons?i=php,wordpress,mysql,html,css,js,bootstrap,git,github,linux,vscode,docker,composer,apache,phpmyadmin,cpanel&perline=8" width="90%" alt="Tech stack icons" />
 </p>
 
-<p align="center">
-  <a href="https://getcomposer.org/">
-    <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer" />
-  </a>
-  <a href="https://httpd.apache.org/">
-    <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
-  </a>
-  <a href="https://www.phpmyadmin.net/">
-    <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
-  </a>
-  <a href="https://cpanel.net/">
-    <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel" />
-  </a>
-</p>
-
-## 📊 Skill Bars
-<a id="skill-bars"></a>
-
+<h2 id="skills">📊 Skill Snapshot</h2>
 <table>
   <tr>
-    <td width="180"><b>PHP</b></td>
-    <td width="600"><progress value="92" max="100"></progress> 92%</td>
+    <td width="200"><b>PHP</b></td>
+    <td width="620"><progress value="92" max="100"></progress> 92%</td>
   </tr>
   <tr>
     <td><b>WordPress</b></td>
@@ -91,86 +58,110 @@
   </tr>
   <tr>
     <td><b>HTML / CSS / JS</b></td>
+    <td><progress value="80" max="100"></progress> 80%</td>
+  </tr>
+  <tr>
+    <td><b>Performance &amp; SEO</b></td>
     <td><progress value="78" max="100"></progress> 78%</td>
   </tr>
-  <tr>
-    <td><b>Performance & SEO</b></td>
-    <td><progress value="75" max="100"></progress> 75%</td>
-  </tr>
 </table>
 
-## ✨ What I Do
-<a id="what-i-do"></a>
-
+<h2 id="services">✨ What I Do</h2>
 <table>
   <tr>
-    <td><b>🧩 Custom WP</b><br/>Themes, plugins, clean admin UX, ACF, Gutenberg.</td>
-    <td><b>🔌 APIs & Integrations</b><br/>REST, webhooks, payment gateways, auth.</td>
+    <td><b>🧩 Custom WP</b><br/>Themes, plugins, custom post types, clean admin UX (ACF, Gutenberg).</td>
+    <td><b>🔌 APIs &amp; Integrations</b><br/>REST, webhooks, auth, payment gateways.</td>
   </tr>
   <tr>
-    <td><b>⚡ Performance</b><br/>Core Web Vitals, caching, DB query tuning.</td>
-    <td><b>🚀 Deploy & Maintain</b><br/>cPanel, backups, monitoring, automation.</td>
+    <td><b>⚡ Performance</b><br/>Core Web Vitals, caching strategy, DB query tuning, object cache.</td>
+    <td><b>🚀 Deploy &amp; Maintain</b><br/>cPanel/CLI, backups, monitoring, CI-lite automation.</td>
   </tr>
 </table>
 
-## 🗓️ Now
-<a id="now"></a>
-
-- [x] Shipping **WordPress + PHP** builds with custom blocks/plugins  
-- [x] Optimizing queries & page speed (**TTFB / Core Web Vitals**)  
-- [ ] Turning a few utilities into open plugins  
-- [ ] Recording short tips about **WP + PHP** (coming soon)
+<h2 id="now">🗓️ Now</h2>
+<ul>
+  <li>[x] Shipping <b>WordPress + PHP</b> builds with custom blocks/plugins</li>
+  <li>[x] Optimizing queries &amp; page speed (<b>TTFB / Core Web Vitals</b>)</li>
+  <li>[ ] Turning a few utilities into open plugins</li>
+  <li>[ ] Recording short tips about <b>WP + PHP</b> (coming soon)</li>
+</ul>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Make%20it%20work%2C%20make%20it%20right%2C%20make%20it%20fast.&author=Kent%20Beck" alt="Developer quote" />
 </p>
 
-## 📈 GitHub at a Glance
-<a id="github-at-a-glance"></a>
-
+<h2 id="projects">🚀 Featured Projects</h2>
+<div align="center">
+  <a href="https://github.com/gupta-8/incredible-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gupta-8&repo=incredible-portfolio&theme=tokyonight&hide_border=true" alt="Pinned: incredible-portfolio"/>
+  </a>
+</div>
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gupta-8&show_icons=true&hide_border=true&theme=tokyonight" alt="Stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=gupta-8&hide_border=true&theme=tokyonight" alt="Streak" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gupta-8&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+  <a href="https://github.com/gupta-8/incredible-portfolio/stargazers"><img src="https://img.shields.io/github/stars/gupta-8/incredible-portfolio?style=flat" alt="Repo stars"/></a>
+  <a href="https://github.com/gupta-8/incredible-portfolio/network/members"><img src="https://img.shields.io/github/forks/gupta-8/incredible-portfolio?style=flat" alt="Repo forks"/></a>
+  <a href="https://github.com/gupta-8/incredible-portfolio/issues"><img src="https://img.shields.io/github/issues/gupta-8/incredible-portfolio?style=flat" alt="Open issues"/></a>
+  <a href="https://github.com/gupta-8/incredible-portfolio/commits/main"><img src="https://img.shields.io/github/last-commit/gupta-8/incredible-portfolio?style=flat" alt="Last commit"/></a>
+</p>
+
+<h2 id="stats">📈 GitHub at a Glance</h2>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gupta-8&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats for gupta-8" />
+  <img height="165" src="https://streak-stats.demolab.com?user=gupta-8&hide_border=true&theme=tokyonight" alt="GitHub Streak for gupta-8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gupta-8&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages for gupta-8" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gupta-8&theme=onestar&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gupta-8&theme=onestar&no-frame=true&row=1&column=6" alt="GitHub Trophies for gupta-8" />
 </p>
 
 <details>
   <summary><b>Activity Graph</b> (click to open)</summary>
-  <br>
+  <br/>
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gupta-8&theme=tokyo-night&hide_border=true" alt="Activity graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gupta-8&theme=tokyo-night&hide_border=true" alt="Contribution activity graph for gupta-8" />
   </p>
 </details>
 
-## 🎒 Extras
-<a id="extras"></a>
-
-- 🌍 Location: **Raipur, Chhattisgarh, India** (IST, UTC+5:30)  
-- 💡 Principles: *Keep it simple. Measure. Optimize.*  
-- 😂 Random Dev Joke:  
+<h2 id="extras">🎒 Extras</h2>
+<ul>
+  <li>🌍 Location: <b>Raipur, Chhattisgarh, India</b> (IST, UTC+5:30)</li>
+  <li>💡 Principles: <i>Keep it simple. Measure. Optimize.</i></li>
+  <li>😂 Random Dev Joke:</li>
+</ul>
+<p>
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Random dev joke" />
-
-## 🧪 Little Showcase (Code)
-```php
-<?php
-// A tiny helper I often reach for:
-function respond_json($data, int $status = 200) {
-  http_response_code($status);
-  header('Content-Type: application/json; charset=UTF-8');
-  echo json_encode($data, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
-}
-respond_json(['hello' => 'world']);
-```
-
-## 📫 Contact
-<a id="contact"></a>
-
-- ✉️ Email: <a href="mailto:hello@harshgupta.me">hello@harshgupta.me</a>  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:8EC5FC,100:E0C3FC" alt="footer" />
 </p>
+<h2>🧪 Little Showcase (Code)</h2>
+<pre><code>&lt;?php
+function respond_json($data, int $status = 200): void {
+    http_response_code($status);
+    header('Content-Type: application/json; charset=UTF-8');
+    echo json_encode(
+        $data,
+        JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_THROW_ON_ERROR
+    );
+}
+respond_json(['hello' =&gt; 'world']);
+</code></pre>
+
+<details>
+  <summary><b>Bonus:</b> Tiny WordPress REST endpoint</summary>
+  <pre><code>&lt;?php
+/**
+ * Plugin Name: HG — Hello Endpoint
+ */
+add_action('rest_api_init', function () {
+    register_rest_route('hg/v1', '/hello', [
+        'methods'  => 'GET',
+        'callback' => function () { return ['hello' => 'world']; },
+        'permission_callback' => '__return_true',
+    ]);
+});
+</code></pre>
+</details>
+
+<h2 id="contact">📫 Contact</h2>
+<ul>
+  <li>✉️ Email: <a href="mailto:hello@harshgupta.me">hello@harshgupta.me</a></li>
+  <li>💬 Open to freelance &amp; collaborations — ping me!</li>
+</ul>
