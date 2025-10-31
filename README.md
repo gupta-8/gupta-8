@@ -364,8 +364,8 @@ Special shout-out to [@vasugupt07676-creator](https://github.com/vasugupt07676-c
 ### 😄 Developer Humor Break
 
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&qColor=%232E97F7&aColor=%23C9D1D9" alt="Jokes Card" />
----
 
+---
 
 **Made with ❤️ and ☕ by Harsh Gupta**
 
