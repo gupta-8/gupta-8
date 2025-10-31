@@ -5,12 +5,6 @@
 ### PHP & WordPress Developer | Performance Enthusiast | Code Craftsman
 
 <p>
-  <a href="mailto:hello@harshgupta.me">
-    <img src="https://img.shields.io/badge/Email-hello@harshgupta.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://buymeacoffee.com/harshguptame">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=gupta-8&style=for-the-badge&label=Visitors&color=0A66C2" alt="Profile Views" />
 </p>
 
