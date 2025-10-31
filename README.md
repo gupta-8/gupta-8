@@ -367,8 +367,6 @@ Special shout-out to [@vasugupt07676-creator](https://github.com/vasugupt07676-c
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2E97F7&height=100&section=footer" alt="Footer" />
-
 **Made with ❤️ and ☕ by Harsh Gupta**
 
 ⭐ Star my repos if you find them useful!
