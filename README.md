@@ -51,7 +51,7 @@ class HarshGupta extends Developer {
 ## 🧰 Tech & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,wordpress,composer,mysql,redis,nginx,apache,html,css,js,bootstrap,git,github,linux,docker,vscode&perline=8" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=php,wordpress,mysql,redis,nginx,html,css,js,bootstrap,git,github,linux,docker,vscode&perline=8" alt="Tech stack icons" />
 </p>
 
 * WordPress (themes, plugins, Gutenberg blocks, ACF)
