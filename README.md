@@ -1,8 +1,10 @@
 <div align="center">
 
-# 👋 Harsh Gupta
+# Hi, I’m Harsh Gupta 👋
 
-### PHP & WordPress Developer • Performance Enthusiast • Code Craftsman
+Developer • Builder • Learner  
+PHP & WordPress · REST APIs · Performance-Driven Web Solutions  
+Chhattisgarh, India · UTC+5:30
 
 [![Follow](https://img.shields.io/github/followers/gupta-8?label=Follow\&style=for-the-badge)](https://github.com/gupta-8)
 [![Visitors](https://komarev.com/ghpvc/?username=gupta-8\&style=for-the-badge\&label=Visitors\&color=0A66C2)](#)
@@ -48,11 +50,9 @@ class HarshGupta extends Developer {
 
 ---
 
-## 🧰 Tech & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,wordpress,mysql,redis,nginx,html,css,js,bootstrap,git,github,linux,docker,vscode&perline=8" alt="Tech stack icons" />
-</p>
+## Tech Stack & Tools  
+![](https://skillicons.dev/icons?i=php,wordpress,html,css,js,mysql,docker,git)  
+**Core Skills:** PHP · WordPress · HTML/CSS/JS · MySQL · Docker · Git  
 
 * WordPress (themes, plugins, Gutenberg blocks, ACF)
 * PHP 8+, Composer, PSR standards
@@ -61,12 +61,28 @@ class HarshGupta extends Developer {
 
 ---
 
-## 🧱 What I Build
+## What I Build  
+### WordPress & PHP  
+- Custom themes & plugins  
+- Advanced Custom Fields (ACF)  
+- Gutenberg blocks & editor patterns  
 
-* **🎨 Custom WordPress Development** — theme/plugin from scratch, CPTs & taxonomies, clean admin UX
-* **🔌 APIs & Integrations** — RESTful APIs, webhooks, OAuth, payment gateways
-* **⚡ Performance Optimization** — Core Web Vitals, TTFB, query tuning, caching, CDN
-* **🚀 Deployment & Maintenance** — CI/CD, monitoring, auto-backups, security
+### APIs & Integrations  
+- RESTful API development  
+- Payment gateways & Webhooks  
+- OAuth / authentication flows  
+
+### Performance & Optimization  
+- Core Web Vitals tuning  
+- Query & caching optimization  
+- CDN setup & TTFB reduction
+
+---
+
+## Featured Projects  
+- **[incredible-portfolio](https://github.com/gupta-8/incredible-portfolio)** — Minimal PHP portfolio architecture.  
+- **[mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot)** — Asynchronous Telegram bot for cloud automation.  
+- **[bromite-shop](https://bromite.shop)** — Creator-brand merchandise & digital product storefront.
 
 ---
 
@@ -215,6 +231,7 @@ const harsh = {
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&qColor=%232E97F7&aColor=%23C9D1D9" alt="Jokes card" />
 </details>
 
-**Made with ❤️ + ☕**
+---
+Made with ❤️ and ☕ by Harsh Gupta
 
 </div>
