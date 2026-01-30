@@ -45,10 +45,5 @@ class HarshGupta extends FullStackDeveloper
             'Code for humans first',
         ];
     }
-
-    public function availability(): string
-    {
-        return 'Open for freelance & collaborations.';
-    }
 }
 ```
